@@ -1,0 +1,15 @@
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\bin\Debug\net6.0\SoundAnimalss.exe
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\bin\Debug\net6.0\SoundAnimalss.deps.json
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\bin\Debug\net6.0\SoundAnimalss.runtimeconfig.json
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\bin\Debug\net6.0\SoundAnimalss.dll
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\bin\Debug\net6.0\SoundAnimalss.pdb
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.csproj.AssemblyReference.cache
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.AssemblyInfoInputs.cache
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.AssemblyInfo.cs
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.csproj.CoreCompileInputs.cache
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.dll
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\refint\SoundAnimalss.dll
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.pdb
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\SoundAnimalss.genruntimeconfig.cache
+C:\Users\mmdev\source\repos\SoundAnimalss\SoundAnimalss\obj\Debug\net6.0\ref\SoundAnimalss.dll
